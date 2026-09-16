@@ -9,7 +9,14 @@
 - Papel do jogador: Jogador controla um homem cujo objetivo é derrotar criaturas folclóricas para revelar/preservar a história cultural.
 - Observações: Registrar referências específicas ao folclore, cuidado com sensibilidade cultural e representação; decidir abordagem educativa/contextual (ex: notas históricas) durante o design.
 
+## Referências de direção
+
+- God of War: Sons of Sparta — referência de combate, escala narrativa e presença dramática do protagonista.
+- Hades — referência de ritmo de repetição, progressão por tentativa e sensação de melhoria constante.
+- Plataforma / formato confirmado: 2D lateral, com câmera lateral para facilitar a leitura dos inimigos e dos padrões de ataque.
+
 ## Próximos passos
 
 - Solicitar justificativa curta do aluno.
 - Confirmar papel do jogador e tom do jogo.
+- Definir o primeiro incremento jogável mínimo a partir do combate em 2D lateral.
