@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 url="res://scenes/Level1.tscn"]
+
+[node name="Level1" type="Node2D"]
+
+[node name="PlayerInstance" parent="." instance="res://scenes/Player.tscn"]
+position = Vector2( 200, 400 )
+
+[node name="EnemyInstance" parent="." instance="res://scenes/Enemy.tscn"]
+position = Vector2( 420, 400 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2( 320, 360 )
+current = true

@@ -1,3 +1,10 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1789563955
-main.tscn::PackedScene::-1::1789563896::0::1::::<><><>0<>0<><>::
+::res://::1789729110
+main.tscn::PackedScene::-1::1789727097::0::1::::<><><>0<>0<><>::
+::res://scenes/::1789728877
+Enemy.tscn::PackedScene::-1::1789728885::0::1::::<><><>0<>0<><>::res://scripts/Enemy.gd
+Level1.tscn::PackedScene::-1::1789729038::0::1::::<><><>0<>0<><>::res://scripts/Player.gd<>res://scripts/Enemy.gd
+Player.tscn::PackedScene::-1::1789728885::0::1::::<><><>0<>0<><>::res://scripts/Player.gd
+::res://scripts/::1789728901
+Enemy.gd::GDScript::8838611643372151880::1789728890::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Player.gd::GDScript::5451311110774802853::1789728887::0::1::::<>CharacterBody2D<><>0<>0<><>::
